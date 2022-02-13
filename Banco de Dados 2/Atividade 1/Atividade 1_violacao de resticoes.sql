@@ -1,6 +1,5 @@
-/* ATIVIDADE PROPOSTA: Utilizando o material e os scripts fornecidos, envie um arquivo .SQL contendo comandos INSERT e UPDATE que violam as diferentes 
-restrições existentes no banco de dados (exceto as chaves estrangeiras) */
--------------------------------------------------------------------------------------------------------------------------------------------------------
+/* ATIVIDADE PROPOSTA: Utilizando o material e os scripts fornecidos, envie um arquivo .SQL contendo comandos INSERT e UPDATE que violam as diferentes restrições existentes no banco de dados (exceto as chaves estrangeiras) */
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 -- VIOLAÇÃO DE CHAVE PRIMÁRIA (PRIMARY KEY - PK):
 
